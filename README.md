@@ -1,2 +1,2 @@
-# Práctica de Git - Alumno A
+# Práctica de Git - Alumno B
 
