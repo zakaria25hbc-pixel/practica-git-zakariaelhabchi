@@ -1,1 +1,2 @@
-# Práctica de Git - Alumno A y B
+# README eliminado por error
+
